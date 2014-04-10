@@ -1,0 +1,35 @@
+{
+  "name": "array-assert",
+  "version": "0.0.1",
+  "description": "Array assertion for MongoDB queries",
+  "main": "array-assert.js",
+  "author": {
+    "name": "nescalante",
+    "email": "nlante@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nescalante/array-assert.git"
+  },
+  "keyworks": [
+    "array",
+    "assert",
+    "mongo",
+    "regex"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-shell": "~0.6.4",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.4.0",
+    "mocha": "~1.18.2",
+    "assert": "~1.1.1"
+  },
+  "dependencies": {
+    "latinize": "~0.1.0"
+  }
+}
