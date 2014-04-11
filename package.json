@@ -1,7 +1,7 @@
 {
   "name": "array-assert",
   "version": "0.0.1",
-  "description": "Array assertion for MongoDB queries",
+  "description": "Array case and accent insensitive assertion for MongoDB queries",
   "main": "array-assert.js",
   "author": {
     "name": "nescalante",

@@ -1,4 +1,6 @@
-array-assert
+Array Assert
 ============
 
-Array assertion for MongoDB queries
+Array case and accent insensitive assertion for MongoDB queries
+
+`var result query.in('tags', arrayAssert(params.array));`
